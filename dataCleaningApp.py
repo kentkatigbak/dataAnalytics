@@ -1,7 +1,7 @@
 # Page configurations
 import streamlit as st
 
-st.set_page_config(page_title="ML-DT KentKatigbak", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="DA by KentKatigbak", layout="wide", initial_sidebar_state="expanded")
 
 hide_st_style = """
                 <style>
