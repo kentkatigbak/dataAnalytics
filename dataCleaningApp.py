@@ -184,7 +184,7 @@ if uploaded_file is not None:
     
 #Developer
 with st.sidebar:
-    st.image("/Users/macbookair/Documents/VS Code/Web Apps/IE App/logo_kent.png")
+    st.image("logo_kent.png")
     st.markdown("""
                 <h1 class = title1>
                     Kent Jym B. Katigbak
